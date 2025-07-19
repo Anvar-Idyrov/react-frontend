@@ -24,12 +24,12 @@ Tailwind CSS (для стилизации)
 Fetch API (для взаимодействия с бэкендом)
 
 Установка и запуск
-Убедитесь, что бэкенд запущен: Этот фронтенд требует работающего бэкенда. Убедитесь, что ваш Django-бэкенд запущен по адресу http://127.0.0.1:8000/. Инструкции по запуску бэкенда: https://github.com/Anvar-Idyrov/Cinema-project-Backand
+Убедитесь, что бэкенд запущен: Этот фронтенд требует работающего бэкенда. Убедитесь, что ваш Django-бэкенд запущен по адресу http://127.0.0.1:8000/. Инструкции по запуску бэкенда: https://github.com/Anvar-Idyrov/Cinema-project-Backend
 
 Клонируйте репозиторий:
 
-git clone https://github.com/Anvar-Idyrov/react-frontand.git
-cd react-frontand
+git clone https://github.com/Anvar-Idyrov/React-frontend.git
+cd React-frontend
 
 Установите зависимости:
 
@@ -42,4 +42,4 @@ npm start
 Приложение будет доступно по адресу http://localhost:3000/ (или другому порту, указанному в терминале).
 
 Связанный проект
-Backend-часть: https://github.com/Anvar-Idyrov/Cinema-project-Backand
+Backend-часть: https://github.com/Anvar-Idyrov/Cinema-project-Backend
